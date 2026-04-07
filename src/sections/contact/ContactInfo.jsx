@@ -9,7 +9,7 @@ const SOCIALS = [
   {
     label: 'GitHub',
     handle: '@Anishkumar100',
-    href: 'https://github.com/Anishkumar100',
+    href: 'https://github.com',
     icon: (
       <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
         <path d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483
@@ -27,7 +27,7 @@ const SOCIALS = [
   {
     label: 'LinkedIn',
     handle: 'Anish Kumar',
-    href: 'https://linkedin.com/in/anishkumar',
+    href: 'https://linkedin.com',
     icon: (
       <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
         <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136

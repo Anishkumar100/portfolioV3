@@ -14,8 +14,8 @@ export const profile = {
   timezone:    'IST (UTC +5:30)',
   email:       'akcoder1102004@gmail.com',
   phone:       '+91 94889 90495',
-  linkedin:    'https://www.linkedin.com/in/anishkumar-dev/',
-  github:      'https://github.com/Anishkumar100',
+  linkedin:    'https://www.linkedin.com',
+  github:      'https://github.com',
   resume:      '/finalAk-2.pdf',
   avatar:      '/images/avatar.jpg',
   available:   true, // drives the "Open to Work" badge
